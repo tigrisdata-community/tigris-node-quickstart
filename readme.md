@@ -4,6 +4,8 @@ This project is a simple web application that demonstrates how to upload files t
 
 All of the code in _index.mjs_ is heavily commented to better help you understand what each section is doing.
 
+![The Tigris file manager app](./img/app.png)
+
 ## What is Tigris
 
 Tigris is a globally distributed, S3-compatible object storage service that provides low-latency access to files.
